@@ -19,8 +19,6 @@
 </p>
 
 ---
-
-### About
 ### About
 I'm a recent Software Engineering graduate with a strong interest in artificial intelligence and software development.  
 I’ve worked on several academic and personal projects involving **machine learning with Python**, as well as **game development in Unity using C#**.  
@@ -32,7 +30,13 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
 ---
 
 ### Featured Projects
-- SNN-framework  
-- Atom_VirtualReality
-- Space-invaders
-- Climber!: Unity game
+- **Spiking Neural Network Research (Neuromorphic Systems Lab, OIT – Japan)**  
+  Collaborative research project focused on **Spiking Neural Networks (SNNs)** for visual pattern recognition.  
+  The project was originally developed by other members of the neuromorphic systems laboratory, but I contributed with different improvements:  
+  - Implemented a **Gabor-based preprocessing** pipeline to enhance spatial feature extraction from input images.  
+  - Developed a **custom inhibitory learning rule** that dynamically adjusts synaptic weights, improving network stability and selectivity.
+  
+- Atom_Aumented_Reality: Educational AR application where the camera detects **periodic table elements** and overlays their **3D atomic structures** on top of each image.  
+  When compatible atoms are brought together, they automatically combine into a **molecule**, allowing users to visualize bonding in real time.
+
+- Climber!: Unity game made by myself that combines tetris and platforming at the same time. Not finished yet but I have plans for releasing it on the play store.
