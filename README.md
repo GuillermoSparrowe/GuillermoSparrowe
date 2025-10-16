@@ -15,7 +15,6 @@
 <p align="center">
   <a href="mailto:sparrowe.ochoa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sparrowe.ochoa%40gmail.com-informational?style=flat"></a>
   <a href="https://www.linkedin.com/in/guillermo-sparrowe-ochoa-995214244/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/your-github-username?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/your-github-username?style=flat"></a>
 </p>
 
 ---
