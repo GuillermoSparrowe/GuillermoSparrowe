@@ -21,14 +21,18 @@
 ---
 
 ### About
--
--
--
+### About
+I'm a recent Software Engineering graduate with a strong interest in artificial intelligence and software development.  
+I’ve worked on several academic and personal projects involving **machine learning with Python**, as well as **game development in Unity using C#**.  
+My GitHub doesn’t yet reflect all my work — I’m currently organizing and uploading previous projects — but I enjoy experimenting, learning new tools, and improving my code through real-world practice.  
 
 ### Tech Stack
-`Java` ·  · `Python` · `PyTorch` · `SQL` · `MySQL` · `GitHub Actions`
-
+ `Python` · `PyTorch` · `Numpy` · `Java` · `SQL` · `MySQL` · `GitHub Actions` · `C#` · `C` · `Spiking Neural Networks` · `HTML`
+ 
 ---
 
 ### Featured Projects
-
+- SNN-framework  
+- Atom_VirtualReality
+- Space-invaders
+- Climber!: Unity game
