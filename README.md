@@ -36,6 +36,4 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
   - Developed a **custom inhibitory learning rule** that dynamically adjusts synaptic weights, improving network stability and selectivity.
   
 - Atom_Aumented_Reality: Educational AR application where the camera detects **periodic table elements** and overlays their **3D atomic structures** on top of each image.  
-  When compatible atoms are brought together, they automatically combine into a **molecule**, allowing users to visualize bonding in real time.
-
-- Climber!: Unity game made by myself that combines tetris and platforming at the same time. Not finished yet but I have plans for releasing it on the play store.
+  When compatible atoms are brought together, they automatically combine into a **molecule**, allowing users to visualize bonding in real time
