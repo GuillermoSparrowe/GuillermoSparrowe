@@ -28,8 +28,9 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
  
 ---
 
-### Featured Projects
-<h2>Spiking Network Contributions</h2>
+<h1> Featured Projects</h1>
+
+<h2> Spiking Network Contributions</h2>
 
 <p>
   This repository showcases my <strong>personal contributions</strong> to a larger collaborative project on 
@@ -38,22 +39,21 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
 </p>
 
 <p>
-  The project focuses on a <strong>three-layer spiking neural network</strong> designed to <strong>recognize handwritten digits</strong> from the 
-  <strong>MNIST dataset</strong>, providing a biologically inspired approach to image classification.
+  The project focuses on a <strong>three-layer spiking neural network</strong> designed to 
+  <strong>recognize handwritten digits</strong> from the <strong>MNIST dataset</strong>, providing a biologically inspired approach to image classification.
+</p>
+
+<p>
+  My work focused on improving both the biological plausibility and performance of the network through the following contributions:
 </p>
 
 <ul>
-  <li>
-    <strong>Spiking Network</strong> refers to a biologically inspired neural architecture where neurons communicate through discrete spikes, closely mimicking real brain activity.
-  </li>
-  <li>
-    <strong>Contributions</strong> include the implementation of <strong>inhibitory plasticity (LTPi)</strong>, improvements in <strong>synaptic dynamics</strong>, and 
-    <strong>Gabor-based preprocessing</strong> for visual feature extraction.
-  </li>
+  <li>Implementation of <strong>inhibitory plasticity (LTPi)</strong> to stabilize network activity and enhance learning robustness.</li>
+  <li>Integration of <strong>Gabor-based visual preprocessing</strong> to extract orientation-selective features inspired by the human visual cortex.</li>
 </ul>
 
 <p>
-  My work resulted in a measurable improvement of <strong>+4.145%</strong> in classification accuracy compared to the original baseline implementation.
+  These contributions led to a measurable improvement of <strong>+4.145%</strong> in classification accuracy compared to the original baseline implementation.
 </p>
 
 <p>
@@ -62,7 +62,8 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
   For this reason, I can only share <strong>selected modules and experiments</strong> that I developed myself, rather than the full implementation.
 </p>
 
-  
+<hr style="margin: 40px 0; border: 1px solid #ccc;" />
+
 <h2> Atom_Augmented_Reality</h2>
 
 <p>
@@ -73,3 +74,4 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
 <p>
   When two or more <strong>compatible atoms</strong> are brought close together, they automatically combine into a <strong>molecule</strong>, allowing users to visualize chemical bonding dynamically and explore molecular structures in an immersive way.
 </p>
+
