@@ -29,11 +29,47 @@ My GitHub doesn’t yet reflect all my work — I’m currently organizing and u
 ---
 
 ### Featured Projects
-- **Spiking Neural Network Research (Neuromorphic Systems Lab, OIT – Japan)**  
-  Collaborative research project focused on **Spiking Neural Networks (SNNs)** for visual pattern recognition.  
-  The project was originally developed by other members of the neuromorphic systems laboratory, but I contributed with different improvements:  
-  - Implemented a **Gabor-based preprocessing** pipeline to enhance spatial feature extraction from input images.  
-  - Developed a **custom inhibitory learning rule** that dynamically adjusts synaptic weights, improving network stability and selectivity.
+<h2>Spiking Network Contributions</h2>
+
+<p>
+  This repository showcases my <strong>personal contributions</strong> to a larger collaborative project on 
+  <strong>Spiking Neural Networks (SNNs)</strong> developed within the 
+  <strong>Neuromorphic Systems Laboratory at Osaka Institute of Technology (OIT)</strong>.
+</p>
+
+<p>
+  The project focuses on a <strong>three-layer spiking neural network</strong> designed to <strong>recognize handwritten digits</strong> from the 
+  <strong>MNIST dataset</strong>, providing a biologically inspired approach to image classification.
+</p>
+
+<ul>
+  <li>
+    <strong>Spiking Network</strong> refers to a biologically inspired neural architecture where neurons communicate through discrete spikes, closely mimicking real brain activity.
+  </li>
+  <li>
+    <strong>Contributions</strong> include the implementation of <strong>inhibitory plasticity (LTPi)</strong>, improvements in <strong>synaptic dynamics</strong>, and 
+    <strong>Gabor-based preprocessing</strong> for visual feature extraction.
+  </li>
+</ul>
+
+<p>
+  My work resulted in a measurable improvement of <strong>+4.145%</strong> in classification accuracy compared to the original baseline implementation.
+</p>
+
+<p>
+  Because the project was developed collaboratively, much of the core code is 
+  <strong>intertwined with work from other researchers</strong>.  
+  For this reason, I can only share <strong>selected modules and experiments</strong> that I developed myself, rather than the full implementation.
+</p>
+
   
-- Atom_Aumented_Reality: Educational AR application where the camera detects **periodic table elements** and overlays their **3D atomic structures** on top of each image.  
-  When compatible atoms are brought together, they automatically combine into a **molecule**, allowing users to visualize bonding in real time
+<h2> Atom_Augmented_Reality</h2>
+
+<p>
+  <strong>Atom_AR</strong> is an educational augmented reality application designed to make chemistry more interactive and intuitive.  
+  Using the device camera, the app detects <strong>periodic table elements</strong> and overlays their corresponding <strong>3D atomic structures</strong> on top of each marker in real time.
+</p>
+
+<p>
+  When two or more <strong>compatible atoms</strong> are brought close together, they automatically combine into a <strong>molecule</strong>, allowing users to visualize chemical bonding dynamically and explore molecular structures in an immersive way.
+</p>
